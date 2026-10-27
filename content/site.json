@@ -1,0 +1,63 @@
+{
+  "companyName": "Шиномонтаж на Советской",
+  "shortDescription": "Шиномонтаж и балансировка колёс в Щёкино — работаем каждый день",
+  "city": "Щёкино",
+  "region": "Тульская область",
+  "address": "ул. Советская, 2а/3 (рядом с автомойкой)",
+  "phone": "+7 (950) 928-20-99",
+  "workingHours": "Каждый день с 9:00 до 19:00",
+  "logo": "",
+  "telegramUsername": "Maksim71ru",
+  "telegramPhone": "",
+  "maxProfileUrl": "",
+  "maxShareUrl": "",
+  "maxEnabled": false,
+  "yandexMapsUrl": "https://yandex.ru/profile/194080801019?lang=ru",
+  "latitude": 54.01445,
+  "longitude": 37.51334,
+  "rating": 4.3,
+  "reviewCount": 5,
+  "heroTitle": "Шиномонтаж на Советской в Щёкино",
+  "heroDescription": "Ремонт проколов и боковых порезов, балансировка, монтаж и демонтаж шин. Работаем каждый день с 9:00 до 19:00.",
+  "advantages": [
+    "Работаем каждый день с 9:00 до 19:00",
+    "Ремонт проколов и боковых порезов",
+    "Балансировка колёс на стенде",
+    "Удобный подъезд рядом с автомойкой"
+  ],
+  "displayMode": "photos",
+  "facts": [
+    {
+      "value": "9:00–19:00",
+      "label": "Работаем каждый день",
+      "icon": "clock",
+      "sortOrder": 1,
+      "isVisible": true
+    },
+    {
+      "value": "500 ₽",
+      "label": "Шиномонтаж, ремонт проколов и балансировка",
+      "icon": "wheel",
+      "sortOrder": 2,
+      "isVisible": true
+    },
+    {
+      "value": "R13–R22",
+      "label": "Работаем с любым диаметром",
+      "icon": "tool",
+      "sortOrder": 3,
+      "isVisible": true
+    },
+    {
+      "value": "Рядом",
+      "label": "Удобный подъезд и парковка",
+      "icon": "map-pin",
+      "sortOrder": 4,
+      "isVisible": true
+    }
+  ],
+  "seoTitle": "Шиномонтаж на Советской — Щёкино: балансировка колёс, ремонт проколов",
+  "seoDescription": "Шиномонтаж в Щёкино на ул. Советская, 2а/3. Ремонт проколов и боковых порезов, балансировка колёс, монтаж и демонтаж шин. Каждый день с 9:00 до 19:00. Запись по телефону и в Telegram.",
+  "ogImage": "/images/company/shinomontazh-1.jpg",
+  "favicon": "/favicon.svg"
+}

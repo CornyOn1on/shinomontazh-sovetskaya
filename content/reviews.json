@@ -1,0 +1,60 @@
+{
+  "reviewsNote": "Отзывы клиентов с Яндекс Карт. Тексты приведены как есть.",
+  "reviews": [
+    {
+      "id": "review-1",
+      "name": "Impasiss77",
+      "rating": 5,
+      "text": "Отличное место, Максим мастер своего дела, новое оборудование и руки из правильного места",
+      "date": "2026-09-13",
+      "yandexReviewUrl": "https://yandex.ru/maps/org/194080801019/reviews?reviews%5BpublicId%5D=hkpxcb4y5048e6t28amzyq2j80&si=x8cyg1f8rpverhj7fn2cc4q2vw&utm_source=review",
+      "isVisible": true,
+      "isDemo": false,
+      "sortOrder": 1
+    },
+    {
+      "id": "review-2",
+      "name": "Angelina D.",
+      "rating": 5,
+      "text": "Быстро, аккуратно и с хорошим настроением!",
+      "date": "2026-09-12",
+      "yandexReviewUrl": "https://yandex.ru/maps/org/194080801019/reviews?reviews%5BpublicId%5D=ghyynumb7kfdqeayey8tu18n4w&si=x8cyg1f8rpverhj7fn2cc4q2vw&utm_source=review",
+      "isVisible": true,
+      "isDemo": false,
+      "sortOrder": 2
+    },
+    {
+      "id": "review-3",
+      "name": "Владимир З.",
+      "rating": 5,
+      "text": "Хорошее расположение, работает на качество. Работой доволен!",
+      "date": "2026-09-11",
+      "yandexReviewUrl": "https://yandex.ru/maps/org/194080801019/reviews?reviews%5BpublicId%5D=60pdyxr76533vje1z3hxdun418&si=x8cyg1f8rpverhj7fn2cc4q2vw&utm_source=review",
+      "isVisible": true,
+      "isDemo": false,
+      "sortOrder": 3
+    },
+    {
+      "id": "review-4",
+      "name": "Максим Разуваев",
+      "rating": 5,
+      "text": "Собрал зимний комплект колес заранее, чтобы потом не стоять в очередях, сделали все качественно, станки современные, со звуковым сопровождением, хорошая зона ожидания, мастер Максим свое дело знает, делает все качественно и быстро, рекомендую.",
+      "date": "2026-09-01",
+      "yandexReviewUrl": "https://yandex.ru/maps/org/194080801019/reviews?reviews%5BpublicId%5D=h5a2d7pg7ckv3vjcpvpy5e7xpg&si=x8cyg1f8rpverhj7fn2cc4q2vw&utm_source=review",
+      "isVisible": true,
+      "isDemo": false,
+      "sortOrder": 4
+    },
+    {
+      "id": "review-5",
+      "name": "Ольга Е.",
+      "rating": 5,
+      "text": "Приехала, сделал ремонт быстро и качественно. По цене все устроило",
+      "date": "2026-09-01",
+      "yandexReviewUrl": "https://yandex.ru/maps/org/194080801019/reviews?reviews%5BpublicId%5D=wj5vffa1brj7dfx6fz1mk8hcj4&si=x8cyg1f8rpverhj7fn2cc4q2vw&utm_source=review",
+      "isVisible": true,
+      "isDemo": false,
+      "sortOrder": 5
+    }
+  ]
+}

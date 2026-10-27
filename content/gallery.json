@@ -1,0 +1,41 @@
+{
+  "galleryNote": "Все изображения — реальные фотографии шиномонтажа на ул. Советская, 2а/3.",
+  "photos": [
+    {
+      "id": "photo-1",
+      "src": "/images/company/rabota-1.jpg",
+      "alt": "Балансировка и монтаж колеса в шиномонтаже на Советской в Щёкино",
+      "caption": "Работа с колесом в мастерской",
+      "isVisible": true,
+      "sortOrder": 1,
+      "isPlaceholder": false
+    },
+    {
+      "id": "photo-2",
+      "src": "/images/company/shinomontazh-1.jpg",
+      "alt": "Здание шиномонтажа на ул. Советская, 2а/3 в Щёкино с вывеской и машиной клиента",
+      "caption": "Наш шиномонтаж на ул. Советская, 2а/3",
+      "isVisible": true,
+      "sortOrder": 2,
+      "isPlaceholder": false
+    },
+    {
+      "id": "photo-3",
+      "src": "/images/company/podezd-1.jpg",
+      "alt": "Подъезд к шиномонтажу на Советской — удобный заезд рядом с автомойкой",
+      "caption": "Удобный подъезд рядом с автомойкой",
+      "isVisible": true,
+      "sortOrder": 3,
+      "isPlaceholder": false
+    },
+    {
+      "id": "photo-4",
+      "src": "/images/company/shinomontazh-2.jpg",
+      "alt": "Клиентский автомобиль у входа в шиномонтаж на Советской в Щёкино",
+      "caption": "Приезжайте на переобувку — работаем каждый день",
+      "isVisible": true,
+      "sortOrder": 4,
+      "isPlaceholder": false
+    }
+  ]
+}
